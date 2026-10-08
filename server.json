@@ -1,0 +1,18 @@
+{
+  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
+  "name": "io.github.TheCompanyAtlas/pakistan-secp-company",
+  "title": "Pakistan SECP Company Registry",
+  "description": "Pakistan SECP company search by name, CUIN, company type, registration office and incorporation date.",
+  "version": "1.0.0",
+  "repository": {
+    "url": "https://github.com/TheCompanyAtlas/pakistan-secp-company-mcp",
+    "source": "github"
+  },
+  "websiteUrl": "https://thecompanyatlas.com/tools/pakistan-secp-companies",
+  "remotes": [
+    {
+      "type": "streamable-http",
+      "url": "https://thecompanyatlas.com/mcp/pakistan"
+    }
+  ]
+}
