@@ -3,7 +3,7 @@
   "name": "io.github.TheCompanyAtlas/pakistan-secp-company",
   "title": "Pakistan SECP Company Registry",
   "description": "Pakistan SECP company search by name, CUIN, company type, registration office.",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "repository": {
     "url": "https://github.com/TheCompanyAtlas/pakistan-secp-company-mcp",
     "source": "github"
