@@ -1,6 +1,6 @@
 # Pakistan SECP Company Registry MCP
 
-Connect your AI assistant to about 150,000 companies registered with the Securities and Exchange Commission of Pakistan (SECP) through [The Company Atlas](https://thecompanyatlas.com) and the Model Context Protocol.
+Connect your AI assistant to companies registered with the Securities and Exchange Commission of Pakistan (SECP) through [The Company Atlas](https://thecompanyatlas.com) and the Model Context Protocol.
 
 Use it to confirm that a Pakistani counterparty is a registered company, what kind of company it is, and when and where it was incorporated.
 
